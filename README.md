@@ -21,7 +21,7 @@ and the other log file to check if the application connected to the database.
 Third outcome of this project for me was to understand how to create an application which allows you to store the files wherever
 you want in your local directory.
 
-### Pictures to show that my log files are in the right directory where I intialized them in my application
+## Pictures to show that my log files are in the right directory where I intialized them in my application
 <img width="1248" alt="Screenshot 2024-01-11 at 12 36 33 PM" src="https://github.com/BharathPalanisamy/MySQL-Salary-tracker/assets/105821504/f098fa78-c29d-4dde-a245-ce8d92208d02">
 The picture above shows where the project should be stored.
 
