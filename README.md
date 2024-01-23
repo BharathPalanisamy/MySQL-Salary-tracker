@@ -1,6 +1,6 @@
 # Salary tracker
 This application tracks and displays the top 5 people with highest salary from the year 1985 - 1990.
-The employees database (Which is holds over 3.3 records of data), this database
+The employees database (Which is holds over 3.3 million records of data), this database
 holds all of the records. Here is the link to their github to download their data. 
 https://github.com/datacharmer/test_db
 
